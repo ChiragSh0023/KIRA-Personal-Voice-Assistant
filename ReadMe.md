@@ -5,14 +5,6 @@ Kira AI is an artificial intelligence project created by Chirag. It is designed 
 ## Description
 
 Kira AI is an AI-powered project that aims to offer a range of features and capabilities. It leverages state-of-the-art machine learning techniques to provide intelligent solutions.
-##Gui
-
-![Screenshot (33)](https://github.com/Chiragk79/Kira-2.0/assets/77737036/ead430aa-8dd4-4724-b994-3d1b0de534e3)
-
-
-
-![Screenshot (34)](https://github.com/Chiragk79/Kira-2.0/assets/77737036/9dd27267-d4d0-4f5b-86e5-c1aac9c38dcd)
-
 
 
 Features:
